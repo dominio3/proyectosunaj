@@ -1,4 +1,4 @@
 proyectosunaj
 =============
 
-repositorio en donde pondré todos los protyectos de la unaiverdad nacional arturo jauretche
+repositorio en donde pondré todos los protyectos de la Universidad Nacional Arturo Jauretche
